@@ -1,0 +1,8 @@
+body {
+  background-color: white;
+}
+
+#title {
+  color: navy;
+  cursor: pointer;
+}
